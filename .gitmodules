@@ -1,3 +1,6 @@
 [submodule "01-Problema_del_agente_viajero"]
 	path = 01-Problema_del_agente_viajero
 	url = https://github.com/Ricardo-B04/Problema-del-agente-viajero.git
+[submodule "02-Problema_de_bisecci-n_de_grafos"]
+	path = 02-Problema_de_bisecci-n_de_grafos
+	url = https://github.com/Ricardo-B04/Problema-de-bisecci-n-de-grafos.git
